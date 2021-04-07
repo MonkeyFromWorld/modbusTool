@@ -1,0 +1,60 @@
+QPalette{background:#FFFFFF;}
+
+QPushButton#ToModbusClient {
+    background: rgb(200, 200, 200);
+    background-origin: content;
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+}
+QPushButton#ToModbusClient:hover {
+    background-color: rgb(255, 120, 120);
+    border-color: rgb(0, 0, 0);
+}
+QPushButton#ToModbusClient:pressed {
+    background-color:rgb(190, 45, 0);
+    border-color: rgb(0, 0, 0);
+    border-style: inset;
+}
+
+QPushButton#ToModbusServer {
+    background: rgb(200, 200, 200);
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+}
+QPushButton#ToModbusServer:hover {
+    background-color: rgb(255, 200, 120);
+    border-color: rgb(0, 0, 0);
+}
+QPushButton#ToModbusServer:pressed {
+    background-color:rgb(190, 130, 0);
+    border-color: rgb(0, 0, 0);
+    border-style: inset;
+}
+
+QPushButton#ToXlsxDeal {
+    background: rgb(200, 200, 200);
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 10px;
+}
+QPushButton#ToXlsxDeal:hover {
+    background-color: rgb(255, 250, 100);
+    border-color: rgb(0, 0, 0);
+}
+
+QPushButton#ToXlsxDeal:pressed {
+    background-color:rgb(190, 184, 0);
+    border-color: rgb(0, 0, 0);
+    border-style: inset;
+}
+
+
+

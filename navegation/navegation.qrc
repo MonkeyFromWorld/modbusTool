@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/client.png</file>
+        <file>images/server.png</file>
+        <file>qss/navigation.qss</file>
+    </qresource>
+</RCC>

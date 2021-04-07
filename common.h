@@ -1,0 +1,8 @@
+#ifndef COMMON_H
+#define COMMON_H
+
+#define NAVIGATION_PAGE 0
+#define MODBUS_CLIENT_PAGE 1
+#define MODBUS_SERVER_PAGE 2
+
+#endif // COMMON_H
